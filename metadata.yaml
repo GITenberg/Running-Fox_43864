@@ -1,0 +1,34 @@
+_repo: Running-Fox_43864
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hutchison, D. C.
+    alias: Hutchison, Donald C.
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '25423'
+    url: http://www.gutenberg.org/2009/agents/25423
+covers:
+- cover_type: archival
+  image_path: 43864-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gregor, Elmer Russell
+    birthdate: 1878
+    gutenberg_agent_id: '37423'
+    url: http://www.gutenberg.org/2009/agents/37423
+description: ''
+gutenberg_issued: '2013-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43864'
+  lccn: '18021373'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcc 'PZ'
+title: Running Fox
+url: http://www.gutenberg.org/ebooks/43864
